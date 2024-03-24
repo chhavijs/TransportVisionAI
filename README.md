@@ -23,3 +23,7 @@ To test the web application locally, follow these steps:
 - OpenCV: Library for computer vision and image processing tasks.
 - jQuery: JavaScript library for simplifying HTML document traversal and manipulation.
 - Bootstrap: Front-end framework for building responsive and mobile-first websites.
+
+##DEMO VIDEO OF MY PROJECT
+
+[TVA.zip](https://github.com/chhavijs/TransportVisionAI/files/14736077/TVA.zip)
