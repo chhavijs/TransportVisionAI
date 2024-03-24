@@ -1,8 +1,7 @@
 # TransportVisionAI
 
-## DEMO VIDEO OF MY PROJECT
-
-[TVA.zip](https://github.com/chhavijs/TransportVisionAI/files/14736077/TVA.zip)
+## DEMO VIDEO OF MY PROJECT 
+-[TVA.zip](https://github.com/chhavijs/TransportVisionAI/files/14736077/TVA.zip)
 
 This web application allows users to upload transportation-related images, such as traffic camera images, and perform object detection on those images. The application is built using HTML, CSS, JavaScript, and Flask.
 
